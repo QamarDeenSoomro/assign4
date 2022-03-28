@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #344a73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signupdesc{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px 5px 20px 5px;
+}
+table{
+    /* border-style: solid; */
+    width: 100%;
+    margin: 10px;
+}
+td{
+    /* border: solid 1px black; */
+
+}
+.signup_form{
+    width: 50%;
+    padding: 5px 100px 5px 200px;
+
+}
+.signup_form>div{
+    background-color: white;
+    border: solid 1px #8daddf;
+}
+h1{
+    margin: 20px;
+    text-align: center;
+}
+input{
+    width: 90%;
+    margin: 0px 20px 20px 20px;
+    height: 30px;
+    border: solid 1px gainsboro;
+    border-radius: 5px;
+}
+form>p{
+    margin-left: 20px;
+
+}
+.TOSDesc{
+    margin: 5px 5px 30px 5px;
+    text-align: center;
+}
+.loginlink{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+.login_form{
+    width: 50%;
+    padding: 5px 200px 5px 100px;
+
+}
+.login_form>div{
+    background-color: white;
+    border: solid 1px #8daddf;
+}
+.button{
+    background-color: #49c3a3;
+    color: white;
+}
+.loginlink>a{
+ color: lightgreen;
+}
